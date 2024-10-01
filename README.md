@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Full Stack Development leanring...
 - 💞️ I’m looking to collaborate on Full Stack Development Projects
-- 📫 Reach me by the main:varanartheesh@gmail.com
+- 📫 Reach me by the mail:varanartheesh@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
